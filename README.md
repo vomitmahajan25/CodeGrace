@@ -1,6 +1,8 @@
-# Trustcred
+# Trustcred - Credit that sees the whole story
 
 **Evidence-led credit assessment and loan workflow**
+
+
 
 Trustcred is a full-stack alternative-credit platform that helps underserved borrowers access formal lending by combining utility payment history, income patterns, business records, and traditional documents into one transparent, human-supervised decision workflow.
 

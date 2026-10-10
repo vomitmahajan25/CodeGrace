@@ -1,0 +1,12 @@
+name = "Trustcred"
+description = "Alternative credit assessment and loan application workflow with customer accounts, lender access codes, and controlled administrator decisions."
+
+[[secret]]
+name = "TRUSTCRED_LOANOFFICER_EMAIL"
+required = true
+description = "The exact email address the site owner will use for the single Trustcred LoanOfficer account. First-time registration must use this address."
+
+[[secret]]
+name = "TRUSTCRED_LOANOFFICER_BOOTSTRAP_CODE"
+required = true
+description = "A private one-time setup passcode of at least 32 characters used only to initialize the first LoanOfficer account. Keep this secret private."
